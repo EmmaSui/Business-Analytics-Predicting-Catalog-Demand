@@ -1,7 +1,7 @@
 # Business-Analytics-Predicting-Catalog-Demand
 Using multiple linear regression model to predict customer demand in order to make business decision
 
-This project was completed to practice multiple linear regression model and making business decisions. The original data and project was created by Udacity, from the Nanodegree 'Predictive Analytics for Business Nanodegree'. The original project used Alteryx to build the model, which is way easier than using Python. For practice purposes, I used python to buld the model and calculated the result which is similar to the right answer.
+This project was completed to practice multiple linear regression model and making business decisions. The original data and project was created by Udacity, from the Nanodegree 'Predictive Analytics for Business Nanodegree'. The original project used Alteryx to build the model, which is way easier than using Python. For practice purposes, I used Python to build the model and calculated the result which is similar to the right answer.
 
 ## Project Overview (Provided by Udacity)
 ### The Business Problem
@@ -36,7 +36,7 @@ p1-customers.xlsx: The dataset includes information on about 2300 customers.
 
 p1-mailinglist.xlsx: The dataset with information on 250 new customers.
 
-Predicting Catalog Demand Code: The python code I wrote and the result of this project.
+Predicting Catalog Demand Code.ipynb: The Python code I wrote and the result of this project.
 
 ## Concept used in this project
 Cross industry standard process for data mining (CRISP-DM), Predictive methodology map, Linear regression, R squared.
